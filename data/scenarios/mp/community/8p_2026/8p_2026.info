@@ -1,0 +1,226 @@
+HeaderInfo =  
+{
+	scenarioname = "Wikinger - Town and Fields 261115 - devNR ",
+	scenariodescription = "Testing SCAR code. Work In Progress - devNR",
+	maxplayers = 8,
+	scenario_battlefront = 1,
+	scenarioabbrname = "",
+	savedname = "",
+	version = 2008,
+	mapsize =  
+	{
+		736,
+		736,
+	},
+	music = "",
+	point_positions =  
+	{
+		 
+		{
+			y = 270.30240,
+			x = -212.44858,
+			owner_id = 1000,
+			ebp_name = "starting_position_shared_territory",
+		},
+		 
+		{
+			y = 266.75906,
+			x = -70.05669,
+			owner_id = 1001,
+			ebp_name = "starting_position_shared_territory",
+		},
+		 
+		{
+			y = 270.62589,
+			x = 40.10554,
+			owner_id = 1002,
+			ebp_name = "starting_position_shared_territory",
+		},
+		 
+		{
+			y = 266.26694,
+			x = 186.93176,
+			owner_id = 1003,
+			ebp_name = "starting_position_shared_territory",
+		},
+		 
+		{
+			y = -274.59943,
+			x = 193.06454,
+			owner_id = 1004,
+			ebp_name = "starting_position_shared_territory",
+		},
+		 
+		{
+			y = -282.82526,
+			x = 47.94894,
+			owner_id = 1005,
+			ebp_name = "starting_position_shared_territory",
+		},
+		 
+		{
+			y = -274.15454,
+			x = -63.64260,
+			owner_id = 1006,
+			ebp_name = "starting_position_shared_territory",
+		},
+		 
+		{
+			y = -277.37012,
+			x = -208.66910,
+			owner_id = 1007,
+			ebp_name = "starting_position_shared_territory",
+		},
+		 
+		{
+			y = 0.36370,
+			x = -16.97318,
+			owner_id = 0,
+			ebp_name = "victory_point",
+		},
+		 
+		{
+			y = -144.75317,
+			x = -16.68237,
+			owner_id = 0,
+			ebp_name = "victory_point",
+		},
+		 
+		{
+			y = 143.32747,
+			x = -16.96259,
+			owner_id = 0,
+			ebp_name = "victory_point",
+		},
+		 
+		{
+			y = -0.65290,
+			x = 240.35010,
+			owner_id = 0,
+			ebp_name = "territory_munitions_point_mp",
+		},
+		 
+		{
+			y = 0.68440,
+			x = -271.84906,
+			owner_id = 1002,
+			ebp_name = "territory_munitions_point_mp",
+		},
+		 
+		{
+			y = -112.77496,
+			x = 225.86670,
+			owner_id = 0,
+			ebp_name = "territory_fuel_point_mp",
+		},
+		 
+		{
+			y = 111.23872,
+			x = -265.50095,
+			owner_id = 1002,
+			ebp_name = "territory_fuel_point_mp",
+		},
+		 
+		{
+			y = 15.57644,
+			x = -112.87453,
+			owner_id = 0,
+			ebp_name = "territory_point_mp",
+		},
+		 
+		{
+			y = -16.34116,
+			x = 80.27689,
+			owner_id = 0,
+			ebp_name = "territory_point_mp",
+		},
+		 
+		{
+			y = -123.73748,
+			x = -271.18533,
+			owner_id = 1005,
+			ebp_name = "territory_point_mp",
+		},
+		 
+		{
+			y = -112.52890,
+			x = -80.38254,
+			owner_id = 0,
+			ebp_name = "territory_point_mp",
+		},
+		 
+		{
+			y = 112.02927,
+			x = -80.12323,
+			owner_id = 0,
+			ebp_name = "territory_point_mp",
+		},
+		 
+		{
+			y = -209.06113,
+			x = 47.15331,
+			owner_id = 0,
+			ebp_name = "territory_point_mp",
+		},
+		 
+		{
+			y = 199.47733,
+			x = 46.66197,
+			owner_id = 0,
+			ebp_name = "territory_point_mp",
+		},
+		 
+		{
+			y = -197.30595,
+			x = -184.45761,
+			owner_id = 1005,
+			ebp_name = "territory_point_mp",
+		},
+		 
+		{
+			y = 188.05307,
+			x = 153.76366,
+			owner_id = 0,
+			ebp_name = "territory_point_mp",
+		},
+		 
+		{
+			y = -145.23203,
+			x = 143.80869,
+			owner_id = 0,
+			ebp_name = "territory_point_mp",
+		},
+		 
+		{
+			y = 142.99640,
+			x = -170.56500,
+			owner_id = 0,
+			ebp_name = "territory_point_mp",
+		},
+		 
+		{
+			y = 136.32510,
+			x = 243.06395,
+			owner_id = 0,
+			ebp_name = "territory_point_mp",
+		},
+		 
+		{
+			y = 8.20327,
+			x = -327.89493,
+			owner_id = 0,
+			ebp_name = "territory_point_mp",
+		},
+		 
+		{
+			y = -6.88329,
+			x = 292.20685,
+			owner_id = 0,
+			ebp_name = "territory_point_mp",
+		},
+	},
+	default_skins =  
+	{
+	},
+}
+

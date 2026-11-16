@@ -1,0 +1,15 @@
+{
+    "files.associations": {
+        "*.scar": "lua"
+    },
+    "Lua.workspace.library": [
+        "C:\\coh2-scar-api-1.0.0"
+    ],
+    "Lua.workspace.ignoreDir": [
+        ".vscode",
+        "Intermediate Cache"
+    ],
+    "Lua.diagnostics.disable": [
+        "deprecated"
+    ]
+}
