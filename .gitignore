@@ -1,0 +1,15 @@
+# Backup files
+*.bak
+*.backup
+*~
+
+# Temporary files
+*.tmp
+*.temp
+
+# Exported packages
+*.sga
+
+# Editor / OS files
+.DS_Store
+Thumbs.db

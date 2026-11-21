@@ -1,7 +1,7 @@
 HeaderInfo =  
 {
-	scenarioname = "Wikinger - Town and Fields 261115 - devNR ",
-	scenariodescription = "Testing SCAR code. Work In Progress - devNR",
+	scenarioname = "Wikinger - Town and Fields 261116 - normal resources",
+	scenariodescription = "Testing SCAR code. Work In Progress -  - normal resources",
 	maxplayers = 8,
 	scenario_battlefront = 1,
 	scenarioabbrname = "",
